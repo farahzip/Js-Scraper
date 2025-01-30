@@ -1,2 +1,2 @@
 # Js-Scraper
-Simple JavaScript web scraper
+Fetches all links from given adress
